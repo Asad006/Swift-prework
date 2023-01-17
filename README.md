@@ -2,7 +2,7 @@ Student self Introduction
 
 App Description
 
-This app enables students to introduce them selves. The app has a from that contains first name, last name, and school name text field for the user to fill out. Then, the user slects the year, and add the which scholl year the his in, the number of pets that the user has, and wether the user want to have more pets or not. After the student finishes entring all the information, the stdent clicks on introduce so that an introduction message appears.
+This app enables students to introduce themselves. The app has a form that contains first name, last name, and school name text field for the user to fill out. Then, the user selects the year, and adds which school year his in, the number of pets that the user has, and wether the user wants to have more pets or not. After the student finishes entering all the information, the student clicks on introduce so that an introduction message appears.
 
 App Walk-though
 
